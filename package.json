@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "RESTFul API with express on node",
   "main": "index.js",
+  "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
